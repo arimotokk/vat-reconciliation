@@ -2,6 +2,14 @@
 
 A web-based tool for calculating VAT position from sales and purchases transactions. Built for Irish tax compliance workflows.
 
+## Screenshots
+
+### Upload Interface
+![Upload Screen](screenshot-upload.png)
+
+### VAT Calculation Results
+![Results Screen](screenshot-results.png)
+
 ## Features
 
 - **Multi-format support**: Upload CSV, Excel (.xlsx), or JSON files
